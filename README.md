@@ -19,7 +19,7 @@ Tools:
 Playwright | TypeScript | GitHub
 
 🔗 Repository: 
- [E-commerce Web & API Testing Project]()
+ [E-commerce Playwright Automation Framework]()
 
 _____________________________________________________
 
