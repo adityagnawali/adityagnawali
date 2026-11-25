@@ -13,7 +13,7 @@ Jira | Postman | REST API | GitHub
 
 ---
 
-### 🤖 Test Automation Framework
+### 🤖 E-commerce Automation Framework
 
 An end-to-end UI automation framework built using Playwright and TypeScript following the Page Object Model (POM) design pattern. The framework automates critical e-commerce workflows and validates application behavior.
 
