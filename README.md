@@ -9,12 +9,11 @@ A complete QA testing project covering manual testing and API testing of an e-co
 **Tools & Technologies:**
 Jira | Postman | REST API | GitHub
 
-🔗 [View Repository](YOUR_REPOSITORY_LINK)
-
+🔗 [View Repository](https://github.com/adityagnawali/web-api-testing.git)
 
 ---
 
-### 🤖 E-commerce Test Automation Framework
+### 🤖 Test Automation Framework
 
 An end-to-end UI automation framework built using Playwright and TypeScript following the Page Object Model (POM) design pattern. The framework automates critical e-commerce workflows and validates application behavior.
 
@@ -27,7 +26,7 @@ An end-to-end UI automation framework built using Playwright and TypeScript foll
 **Tools & Technologies:**
 Playwright | TypeScript | GitHub
 
-🔗 [View Repository](YOUR_REPOSITORY_LINK)
+🔗 [View Repository](https://github.com/adityagnawali/ecommerce-playwright-automation.git)
 
 
 ---
